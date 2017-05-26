@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase Integration</string>
+    <string name="internet_error">No internet connection!</string>
+</resources>
